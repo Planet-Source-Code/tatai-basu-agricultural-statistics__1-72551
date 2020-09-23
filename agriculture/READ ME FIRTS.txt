@@ -1,0 +1,49 @@
+HOW TO INSTALL :..........................................
+
+COPY THE FILES 
+
+Hi.txt  & HiDate.txt to c:\Windows   directory
+
+Use password : 13102k
+..........................................................
+
+
+HOW TO USE :................................................
+
+This code is a real life example and is used by a govt sector
+The code is for agricultural statistics in a minutes
+Select appropriate location ( year-> district->block ->GP)  then ok
+Then sub sample ->Mouza No-> No  of cuts -> Inputs(1 to 10)
+
+Then fill the appropriate field and then send  then total 
+
+then click new sample and do as follows
+
+then click print report
+
+Output the result in excel format
+.............................................................
+
+PURPOSE :....................................................
+
+I use two User control LynxGrid and UPB Which is available in PSC
+Thanks the Developers of these Controls
+
+User can Learn How to use Dynamic Array ,Excel Macro, Text file reading etc. and more..
+
+enjoy the code
+
+thanks..............
+
+Author 
+tatai basu
+Jalpaiguri
+India
+tatai.basu@rediffmail.com
+
+
+
+
+
+
+
